@@ -18,6 +18,7 @@ function changeLeastFavoriteCustomer(){
   return leastFavoriteCustomer = 'maybe not bob';
 }
 
-function attemptTwoFavoriteCustomers(){
-  return favoriteCustomer = 'the bob';
+function attemptTwoFavoriteCustomers(x){
+  let favoriteCustomer = x;
+  return favoriteCustomer;
 }
