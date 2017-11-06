@@ -22,3 +22,5 @@ function attemptTwoFavoriteCustomers(x){
   let favoriteCustomer = x;
   return favoriteCustomer;
 }
+
+attemptTwoFavoriteCustomers('bob');
