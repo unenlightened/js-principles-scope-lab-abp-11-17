@@ -2,7 +2,5 @@
 var customerName = 'bob';
 
 function upperCaseCustomerName(customerName) {
-
-  return customerName;
-  console.log(customerName);
+  return BOB;
 }
