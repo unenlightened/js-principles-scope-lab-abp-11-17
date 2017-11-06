@@ -19,5 +19,5 @@ function changeLeastFavoriteCustomer(){
 }
 
 function attemptTwoFavoriteCustomers(){
-  
+  return favoriteCustomer = 'the bob';
 }
