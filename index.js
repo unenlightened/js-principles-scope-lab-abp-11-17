@@ -24,3 +24,4 @@ function attemptTwoFavoriteCustomers(x){
 }
 
 attemptTwoFavoriteCustomers('bob');
+attemptTwoFavoriteCustomers('bob');
